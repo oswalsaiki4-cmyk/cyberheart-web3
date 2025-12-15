@@ -33,7 +33,7 @@ export default function Home() {
         <div className="container mx-auto px-4 lg:px-8">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
-              <img src="https://same-api-production.s3.amazonaws.com/uploads/bd3c2f90-6a9c-459b-bcfa-ecf3d8b90bdb/4f1a63db-a6ad-44c1-8fbc-a03cd1821b45/b4e8e382-dda6-48c6-b8d1-a6a4e1f89c42.png" alt="CyberHeart Logo" className="h-10 w-10" />
+              <img src="/logo.png" alt="CyberHeart Logo" className="h-10 w-10" />
               <div className="text-2xl font-bold web3-gradient-text">CyberHeart</div>
             </div>
 
@@ -492,7 +492,7 @@ export default function Home() {
         <div className="container mx-auto max-w-6xl">
           <div className="flex flex-col items-center gap-6">
             <div className="flex items-center gap-3">
-              <img src="https://same-api-production.s3.amazonaws.com/uploads/bd3c2f90-6a9c-459b-bcfa-ecf3d8b90bdb/4f1a63db-a6ad-44c1-8fbc-a03cd1821b45/b4e8e382-dda6-48c6-b8d1-a6a4e1f89c42.png" alt="CyberHeart Logo" className="h-10 w-10" />
+              <img src="/logo.png" alt="CyberHeart Logo" className="h-10 w-10" />
               <div className="text-2xl font-bold web3-gradient-text">CyberHeart</div>
             </div>
 
