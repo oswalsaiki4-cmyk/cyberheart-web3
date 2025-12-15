@@ -1,0 +1,542 @@
+==============================================
+==============================================
+
+ 你的网站已经准备好了！代码已经commit到本地Git仓库。
+
+
+1步：在GitHub创建新仓库
+
+
+1. 打开 https://github.com/new
+2. 仓库名称：cyberheart-website (或你喜欢的名字)
+3. 描述：CyberHeart (CYHT) Official Website
+4. 选择 Public 或 Private
+5. ⚠️ 不要勾选 "Initialize this repository with a README"
+6. 点击 "Create repository"
+
+
+2步：上传代码到GitHub
+
+
+cd /home/project && npm_config_yes=true cd cyberheart && cat > HOW-TO-UPLOAD.txt << 'EOF'
+==============================================
+==============================================
+
+ 你的网站已经准备好了！代码已经commit到本地Git仓库。
+
+
+1步：在GitHub创建新仓库
+
+
+1. 打开 https://github.com/new
+2. 仓库名称：cyberheart-website (或你喜欢的名字)
+3. 描述：CyberHeart (CYHT) Official Website
+4. 选择 Public 或 Private
+5. ⚠️ 不要勾选 "Initialize this repository with a README"
+6. 点击 "Create repository"
+
+
+2步：上传代码到YOUR_USERNAME和YOUR_REPO）：
+
+cd /path/to/cyberheart
+git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git branch -M main
+git push -u origin main
+
+cd /home/project && npm_config_yes=true cd cyberheart && cat > HOW-TO-UPLOAD.txt << 'EOF'
+==============================================
+==============================================
+
+ 你的网站已经准备好了！代码已经commit到本地Git仓库。
+
+
+1步：在GitHub创建新仓库
+
+
+1. 打开 https://github.com/new
+2. 仓库名称：cyberheart-website (或你喜欢的名字)
+3. 描述：CyberHeart (CYHT) Official Website
+4. 选择 Public 或 Private
+5. ⚠️ 不要勾选 "Initialize this repository with a README"
+6. 点击 "Create repository"
+
+
+2步：上传代码到GitHub
+
+
+cd /home/project && npm_config_yes=true cd cyberheart && cat > HOW-TO-UPLOAD.txt << 'EOF'
+==============================================
+==============================================
+
+ 你的网站已经准备好了！代码已经commit到本地Git仓库。
+
+
+1步：在GitHub创建新仓库
+
+
+1. 打开 https://github.com/new
+2. 仓库名称：cyberheart-website (或你喜欢的名字)
+3. 描述：CyberHeart (CYHT) Official Website
+4. 选择 Public 或 Private
+5. ⚠️ 不要勾选 "Initialize this repository with a README"
+6. 点击 "Create repository"
+
+
+2步：上传代码到YOUR_USERNAME和YOUR_REPO）：
+
+cd /path/to/cyberheart
+git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git branch -M main
+git push -u origin main
+
+
+git remote add origin https://github.com/john/cyberheart-website.git
+git branch -M main
+git push -u origin main
+
+
+3步：上传Logo和白皮书
+
+
+A - 通过GitHub网页上传（推荐）:
+1. 进入你的GitHub仓库
+2. 点击 "public" 文件夹
+3. 点击 "Add file" → "Upload files"
+4. 拖入你的文件：
+   • logo.png (你的logo，推荐512x512或1024x1024px)
+   • litepaper.pdf (你的白皮书PDF)
+5. 点击 "Commit changes"
+
+B - 通过命令行:
+cp your-logo.png cyberheart/public/logo.png
+cp your-litepaper.pdf cyberheart/public/litepaper.pdf
+cd cyberheart
+git add public/logo.png public/litepaper.pdf
+git commit -m "Add logo and litepaper"
+git push
+
+
+
+
+Logo (public/logo.png):
+ 文件名必须是：logo.png
+ 推荐尺寸：512x512px 或 1024x1024px
+ 格式：PNG (支持透明背景)
+ 文件大小：< 500KB
+
+/home/project/500KB (public/litepaper.pdf):
+ 文件名必须是：litepaper.pdf
+ 格式：PDF
+ 文件大小：< 10MB
+
+
+
+
+cd /home/project && npm_config_yes=true cd cyberheart && cat > HOW-TO-UPLOAD.txt << 'EOF'
+==============================================
+==============================================
+
+ 你的网站已经准备好了！代码已经commit到本地Git仓库。
+
+
+1步：在GitHub创建新仓库
+
+
+1. 打开 https://github.com/new
+2. 仓库名称：cyberheart-website (或你喜欢的名字)
+3. 描述：CyberHeart (CYHT) Official Website
+4. 选择 Public 或 Private
+5. ⚠️ 不要勾选 "Initialize this repository with a README"
+6. 点击 "Create repository"
+
+
+2步：上传代码到GitHub
+
+
+cd /home/project && npm_config_yes=true cd cyberheart && cat > HOW-TO-UPLOAD.txt << 'EOF'
+==============================================
+==============================================
+
+ 你的网站已经准备好了！代码已经commit到本地Git仓库。
+
+
+1步：在GitHub创建新仓库
+
+
+1. 打开 https://github.com/new
+2. 仓库名称：cyberheart-website (或你喜欢的名字)
+3. 描述：CyberHeart (CYHT) Official Website
+4. 选择 Public 或 Private
+5. ⚠️ 不要勾选 "Initialize this repository with a README"
+6. 点击 "Create repository"
+
+
+2步：上传代码到YOUR_USERNAME和YOUR_REPO）：
+
+cd /path/to/cyberheart
+git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git branch -M main
+git push -u origin main
+
+cd /home/project && npm_config_yes=true cd cyberheart && cat > HOW-TO-UPLOAD.txt << 'EOF'
+==============================================
+==============================================
+
+ 你的网站已经准备好了！代码已经commit到本地Git仓库。
+
+
+1步：在GitHub创建新仓库
+
+
+1. 打开 https://github.com/new
+2. 仓库名称：cyberheart-website (或你喜欢的名字)
+3. 描述：CyberHeart (CYHT) Official Website
+4. 选择 Public 或 Private
+5. ⚠️ 不要勾选 "Initialize this repository with a README"
+6. 点击 "Create repository"
+
+
+2步：上传代码到GitHub
+
+
+cd /home/project && npm_config_yes=true cd cyberheart && cat > HOW-TO-UPLOAD.txt << 'EOF'
+==============================================
+==============================================
+
+ 你的网站已经准备好了！代码已经commit到本地Git仓库。
+
+
+1步：在GitHub创建新仓库
+
+
+1. 打开 https://github.com/new
+2. 仓库名称：cyberheart-website (或你喜欢的名字)
+3. 描述：CyberHeart (CYHT) Official Website
+4. 选择 Public 或 Private
+5. ⚠️ 不要勾选 "Initialize this repository with a README"
+6. 点击 "Create repository"
+
+
+2步：上传代码到YOUR_USERNAME和YOUR_REPO）：
+
+cd /path/to/cyberheart
+git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git branch -M main
+git push -u origin main
+
+
+git remote add origin https://github.com/john/cyberheart-website.git
+git branch -M main
+git push -u origin main
+
+
+3步：上传Logo和白皮书
+
+
+A - 通过GitHub网页上传（推荐）:
+1. 进入你的GitHub仓库
+2. 点击 "public" 文件夹
+3. 点击 "Add file" → "Upload files"
+4. 拖入你的文件：
+   • logo.png (你的logo，推荐512x512或1024x1024px)
+   • litepaper.pdf (你的白皮书PDF)
+5. 点击 "Commit changes"
+
+B - 通过命令行:
+cp your-logo.png cyberheart/public/logo.png
+cp your-litepaper.pdf cyberheart/public/litepaper.pdf
+cd cyberheart
+git add public/logo.png public/litepaper.pdf
+git commit -m "Add logo and litepaper"
+git push
+
+
+
+
+Logo (public/logo.png):
+ 文件名必须是：logo.png
+ 推荐尺寸：512x512px 或 1024x1024px
+ 格式：PNG (支持透明背景)
+ 文件大小：< 500KB
+
+/home/project/500KB (public/litepaper.pdf):
+ 文件名必须是：litepaper.pdf
+ 格式：PDF
+ 文件大小：< itHub后，可以部署到：
+ Netlify (推荐) - 连接GitHub仓库自动部署
+ Vercel - 一键部署
+ Cloudflare Pages
+ GitHub Pages
+
+
+cd /home/project && npm_config_yes=true cd cyberheart && cat > HOW-TO-UPLOAD.txt << 'EOF'
+==============================================
+==============================================
+
+ 你的网站已经准备好了！代码已经commit到本地Git仓库。
+
+
+1步：在GitHub创建新仓库
+
+
+1. 打开 https://github.com/new
+2. 仓库名称：cyberheart-website (或你喜欢的名字)
+3. 描述：CyberHeart (CYHT) Official Website
+4. 选择 Public 或 Private
+5. ⚠️ 不要勾选 "Initialize this repository with a README"
+6. 点击 "Create repository"
+
+
+2步：上传代码到GitHub
+
+
+cd /home/project && npm_config_yes=true cd cyberheart && cat > HOW-TO-UPLOAD.txt << 'EOF'
+==============================================
+==============================================
+
+ 你的网站已经准备好了！代码已经commit到本地Git仓库。
+
+
+1步：在GitHub创建新仓库
+
+
+1. 打开 https://github.com/new
+2. 仓库名称：cyberheart-website (或你喜欢的名字)
+3. 描述：CyberHeart (CYHT) Official Website
+4. 选择 Public 或 Private
+5. ⚠️ 不要勾选 "Initialize this repository with a README"
+6. 点击 "Create repository"
+
+
+2步：上传代码到YOUR_USERNAME和YOUR_REPO）：
+
+cd /path/to/cyberheart
+git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git branch -M main
+git push -u origin main
+
+cd /home/project && npm_config_yes=true cd cyberheart && cat > HOW-TO-UPLOAD.txt << 'EOF'
+==============================================
+==============================================
+
+ 你的网站已经准备好了！代码已经commit到本地Git仓库。
+
+
+1步：在GitHub创建新仓库
+
+
+1. 打开 https://github.com/new
+2. 仓库名称：cyberheart-website (或你喜欢的名字)
+3. 描述：CyberHeart (CYHT) Official Website
+4. 选择 Public 或 Private
+5. ⚠️ 不要勾选 "Initialize this repository with a README"
+6. 点击 "Create repository"
+
+
+2步：上传代码到GitHub
+
+
+cd /home/project && npm_config_yes=true cd cyberheart && cat > HOW-TO-UPLOAD.txt << 'EOF'
+==============================================
+==============================================
+
+ 你的网站已经准备好了！代码已经commit到本地Git仓库。
+
+
+1步：在GitHub创建新仓库
+
+
+1. 打开 https://github.com/new
+2. 仓库名称：cyberheart-website (或你喜欢的名字)
+3. 描述：CyberHeart (CYHT) Official Website
+4. 选择 Public 或 Private
+5. ⚠️ 不要勾选 "Initialize this repository with a README"
+6. 点击 "Create repository"
+
+
+2步：上传代码到YOUR_USERNAME和YOUR_REPO）：
+
+cd /path/to/cyberheart
+git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git branch -M main
+git push -u origin main
+
+
+git remote add origin https://github.com/john/cyberheart-website.git
+git branch -M main
+git push -u origin main
+
+
+3步：上传Logo和白皮书
+
+
+A - 通过GitHub网页上传（推荐）:
+1. 进入你的GitHub仓库
+2. 点击 "public" 文件夹
+3. 点击 "Add file" → "Upload files"
+4. 拖入你的文件：
+   • logo.png (你的logo，推荐512x512或1024x1024px)
+   • litepaper.pdf (你的白皮书PDF)
+5. 点击 "Commit changes"
+
+B - 通过命令行:
+cp your-logo.png cyberheart/public/logo.png
+cp your-litepaper.pdf cyberheart/public/litepaper.pdf
+cd cyberheart
+git add public/logo.png public/litepaper.pdf
+git commit -m "Add logo and litepaper"
+git push
+
+
+
+
+Logo (public/logo.png):
+ 文件名必须是：logo.png
+ 推荐尺寸：512x512px 或 1024x1024px
+ 格式：PNG (支持透明背景)
+ 文件大小：< 500KB
+
+/home/project/500KB (public/litepaper.pdf):
+ 文件名必须是：litepaper.pdf
+ 格式：PDF
+ 文件大小：< 10MB
+
+
+
+
+cd /home/project && npm_config_yes=true cd cyberheart && cat > HOW-TO-UPLOAD.txt << 'EOF'
+==============================================
+==============================================
+
+ 你的网站已经准备好了！代码已经commit到本地Git仓库。
+
+
+1步：在GitHub创建新仓库
+
+
+1. 打开 https://github.com/new
+2. 仓库名称：cyberheart-website (或你喜欢的名字)
+3. 描述：CyberHeart (CYHT) Official Website
+4. 选择 Public 或 Private
+5. ⚠️ 不要勾选 "Initialize this repository with a README"
+6. 点击 "Create repository"
+
+
+2步：上传代码到GitHub
+
+
+cd /home/project && npm_config_yes=true cd cyberheart && cat > HOW-TO-UPLOAD.txt << 'EOF'
+==============================================
+==============================================
+
+ 你的网站已经准备好了！代码已经commit到本地Git仓库。
+
+
+1步：在GitHub创建新仓库
+
+
+1. 打开 https://github.com/new
+2. 仓库名称：cyberheart-website (或你喜欢的名字)
+3. 描述：CyberHeart (CYHT) Official Website
+4. 选择 Public 或 Private
+5. ⚠️ 不要勾选 "Initialize this repository with a README"
+6. 点击 "Create repository"
+
+
+2步：上传代码到YOUR_USERNAME和YOUR_REPO）：
+
+cd /path/to/cyberheart
+git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git branch -M main
+git push -u origin main
+
+cd /home/project && npm_config_yes=true cd cyberheart && cat > HOW-TO-UPLOAD.txt << 'EOF'
+==============================================
+==============================================
+
+ 你的网站已经准备好了！代码已经commit到本地Git仓库。
+
+
+1步：在GitHub创建新仓库
+
+
+1. 打开 https://github.com/new
+2. 仓库名称：cyberheart-website (或你喜欢的名字)
+3. 描述：CyberHeart (CYHT) Official Website
+4. 选择 Public 或 Private
+5. ⚠️ 不要勾选 "Initialize this repository with a README"
+6. 点击 "Create repository"
+
+
+2步：上传代码到GitHub
+
+
+cd /home/project && npm_config_yes=true cd cyberheart && cat > HOW-TO-UPLOAD.txt << 'EOF'
+==============================================
+==============================================
+
+ 你的网站已经准备好了！代码已经commit到本地Git仓库。
+
+
+1步：在GitHub创建新仓库
+
+
+1. 打开 https://github.com/new
+2. 仓库名称：cyberheart-website (或你喜欢的名字)
+3. 描述：CyberHeart (CYHT) Official Website
+4. 选择 Public 或 Private
+5. ⚠️ 不要勾选 "Initialize this repository with a README"
+6. 点击 "Create repository"
+
+
+2步：上传代码到YOUR_USERNAME和YOUR_REPO）：
+
+cd /path/to/cyberheart
+git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git branch -M main
+git push -u origin main
+
+
+git remote add origin https://github.com/john/cyberheart-website.git
+git branch -M main
+git push -u origin main
+
+
+3步：上传Logo和白皮书
+
+
+A - 通过GitHub网页上传（推荐）:
+1. 进入你的GitHub仓库
+2. 点击 "public" 文件夹
+3. 点击 "Add file" → "Upload files"
+4. 拖入你的文件：
+   • logo.png (你的logo，推荐512x512或1024x1024px)
+   • litepaper.pdf (你的白皮书PDF)
+5. 点击 "Commit changes"
+
+B - 通过命令行:
+cp your-logo.png cyberheart/public/logo.png
+cp your-litepaper.pdf cyberheart/public/litepaper.pdf
+cd cyberheart
+git add public/logo.png public/litepaper.pdf
+git commit -m "Add logo and litepaper"
+git push
+
+
+
+
+Logo (public/logo.png):
+ 文件名必须是：logo.png
+ 推荐尺寸：512x512px 或 1024x1024px
+ 格式：PNG (支持透明背景)
+ 文件大小：< 500KB
+
+/home/project/500KB (public/litepaper.pdf):
+ 文件名必须是：litepaper.pdf
+ 格式：PDF
+ 文件大小：< itHub后，可以部署到：
+ Netlify (推荐) - 连接GitHub仓库自动部署
+ Vercel - 一键部署
+ Cloudflare Pages
+ ogo和白皮书按钮生效
+
